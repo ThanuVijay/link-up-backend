@@ -1,0 +1,17 @@
+{
+  "name": "link-up-backend",
+  "version": "1.0.0",
+  "description": "link up application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server":"nodemon server.js"
+
+  },
+  "author": "Thanushan Vijayaratnam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
